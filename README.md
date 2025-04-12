@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Hare Omagari.jpg" alt="Hare Omagari" width="300"/>
+  <img src="Hare Omagari.jpg" alt="Hare Omagari" width="500"/>
 </div>
 <h1 align="center">🍵 I'm <a href="" target="_blank">Sauce</a>, silly programmer that does coding for fun 🍵</h1>
 

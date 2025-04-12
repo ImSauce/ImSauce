@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imsauce&show_icons=true&theme=cobalt)
+
 <div align="center">
   <img src="Hare Omagari.jpg" alt="Hare Omagari" width="500"/>
 </div>

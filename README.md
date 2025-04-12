@@ -1,4 +1,4 @@
-![Hare Omagari](Hare%20Omagari.jpg)
+![Hare Omagari](Hare%90Omagari.jpg)
 <h1 align="center">🍵 I'm <a href="" target="_blank">Sauce</a>, silly programmer that does coding for fun 🍵</h1>
 
 <h3 align="left">My Arsenal:</h3>

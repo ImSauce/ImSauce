@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Hare Omagari.jpg" alt="Hare Omagari" width="500"/>
 </div>
-<h1 align="center">🍵 I'm <a href="" target="_blank">Sauce</a>, silly programmer that does coding for fun 🍵</h1>
+<h1 align="center">🍵 I'm <a href="" target="_blank">Sauce</a>,  🍵</h1>
 
 <h3 align="left">My Arsenal:</h3>
 <p align="left">

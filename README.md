@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](panel_neuro_sama_vedal.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Hare Omagari.jpg)
 <h1 align="center">🍵 I'm <a href="" target="_blank">Sauce</a>, silly programmer that does coding for fun 🍵</h1>
 
 <h3 align="left">My Arsenal:</h3>

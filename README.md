@@ -18,4 +18,5 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=imsauce&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsauce" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsauce&theme=discord_old_blurple" alt="Top Languages"/>
+

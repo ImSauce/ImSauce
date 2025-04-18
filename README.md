@@ -19,6 +19,6 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=imsauce&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsauce&theme=tokyonight&layout=compact" alt="Favorite Language" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsauce&theme=tokyonight&layout=compact" alt="Favorite Language" width="30%">
 
 

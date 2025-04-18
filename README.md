@@ -17,6 +17,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=imsauce&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsauce&theme=discord_old_blurple" alt="Top Languages"/>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsauce&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsauce&theme=discord_old_blurple" alt="Top Languages" width="48%">
+</div>
 

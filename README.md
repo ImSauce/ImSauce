@@ -32,6 +32,6 @@
    
 <p align="left">
   <img 
-    src="https://komarev.com/ghpvc/?username=imsauce&label=%50Views&style=for-the-badge&color=2ea043&labelColor=000" 
+    src="https://komarev.com/ghpvc/?username=imsauce&label=%100Views&style=for-the-badge&color=2ea043&labelColor=000" 
   />
 </p>

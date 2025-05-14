@@ -30,4 +30,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsauce&label=Profile%20views&style=flat-square&color=blue&logoColor=black&labelColor=fff" alt="ZyS1b" /> </p>
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=imsauce&label=Profile%20Views&style=flat-square&color=0d1117&labelColor=ffffff&logoColor=white" 
+    alt="Profile Views" 
+  />
+</p>

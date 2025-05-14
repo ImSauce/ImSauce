@@ -32,7 +32,7 @@
    
 <p align="left">
   <img 
-    src="https://komarev.com/ghpvc/?username=imsauce&label=Profile%20Views&style=flat-square&color=0d1117&labelColor=ffffff&logoColor=white" 
+    src="https://komarev.com/ghpvc/?username=imsauce&label=Profile%20Views&style=for-the-badge&color=0d1117&labelColor=ffffff" 
     alt="Profile Views" 
   />
 </p>

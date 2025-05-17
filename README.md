@@ -29,9 +29,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-   
-<p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=imsauce&label=Github%20Views&style=for-the-badge&color=2ea043&labelColor=2ea043" 
-  />
-</p> 
+

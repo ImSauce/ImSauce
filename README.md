@@ -5,9 +5,6 @@
 <h2 align="center">🍵 I'm <a href="https://x.com/imsauce_" target="_blank">Sauce</a>, silly programmer with caffiene addiction and ADHD 🍵</h2>
 
 
-
-
-
 <h3 align="left">My Arsenal:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>

@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="Hare Omagari.jpg" alt="Hare Omagari" width="500"/>
+  <img src="hare_omagari.png" alt="Hare Omagari" width="500"/>
 </div>
 <h2 align="center">🍵 I'm <a href="https://x.com/imsauce_" target="_blank">Sauce</a>, silly programmer with caffiene addiction and ADHD 🍵</h2>
   

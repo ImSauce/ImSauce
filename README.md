@@ -22,11 +22,11 @@
 
  
 
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=imsauce&show_icons=true&theme=tokyonight" alt="GitHub Stats"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=imsauce&show_icons=true&theme=tokyonight" alt="GitHub Stats"> 
 
   <!--  -->
 <div>
- <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsauce&layout=compact&theme=transparent&title_color=AFADAF&text_color=AFADAF&hide_border=true" alt="Top Languages" />-->  <img src="https://discord.c99.nl/widget/theme-4/767280222311415819.png" alt="Discord Status" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsauce&layout=compact&theme=transparent&title_color=AFADAF&text_color=AFADAF&hide_border=true" alt="Top Languages" />  <img src="https://discord.c99.nl/widget/theme-4/767280222311415819.png" alt="Discord Status" />
 </div>
 
 

@@ -21,8 +21,9 @@
 </p>
 
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsauce&theme=github_dark)
 
+[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsauce&theme=tokyonight)
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imsauce&theme=tokyonight)
 
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=imsauce&show_icons=true&theme=tokyonight" alt="GitHub Stats"> 

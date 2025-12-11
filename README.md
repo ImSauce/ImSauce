@@ -21,7 +21,7 @@
 </p>
 
 
-[![](https://raw.githubusercontent.com/imsauce/imsauce/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imsauce&theme=github_dark)
 
 
   <!--

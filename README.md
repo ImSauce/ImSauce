@@ -1,7 +1,10 @@
 
 <div align="center">
-  <img src="HareOmagari(compressed).jpg" alt="Hare Omagari" width="500"/>
+  <a href="https://x.com/puuu_sen555/status/1688492331010543616/photo/1" target="_blank">
+    <img src="HareOmagari(compressed+rounded).png" alt="Hare Omagari" width="500"/>
+  </a>
 </div>
+
 <h2 align="center">🍵 I'm <a href="https://x.com/imsauce_" target="_blank">Sauce</a>, silly programmer with caffiene addiction and ADHD 🍵</h2>
   
 

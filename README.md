@@ -8,8 +8,7 @@
 <h2 align="center">
   🍵I'm 
   <a href="https://imsauce.github.io/Sauce/home.html" target="_blank" rel="noopener noreferrer">
-    Sauce
-  </a>, 
+    Sauce</a>, 
   a silly programmer who draws, has caffeine addiction and interested in game development as a hobby🍵
 </h2>
 

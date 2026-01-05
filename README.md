@@ -6,11 +6,11 @@
 </div>
 
 <h2 align="center">
-  I'm 
+  🍵I'm 
   <a href="https://imsauce.github.io/Sauce/home.html" target="_blank" rel="noopener noreferrer">
     Sauce
   </a>, 
-  silly programmer with caffeine addiction and game development hobbies🍵
+  a silly programmer who draws, has caffeine addiction and interested in game development as a hobby🍵
 </h2>
 
 <h3 align="left">My Arsenal:</h3>

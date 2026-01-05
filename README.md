@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<h2 align="center">🍵 I'm <a href="https://imsauce.github.io/Personal-Website-2026/home.html" target="_blank">Sauce</a>, silly programmer with sotfware and game development hobbies🍵</h2>
+<h2 align="center">🍵 I'm <a href="https://imsauce.github.io/Personal-Website-2026/home.html" target="_blank">Sauce</a>, silly programmer with caffeine addiction and game development hobbies🍵</h2>
   
 
 <h3 align="left">My Arsenal:</h3>

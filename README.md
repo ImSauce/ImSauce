@@ -7,7 +7,7 @@
 
 <h2 align="center">
   🍵I'm 
-  <a href="https://imsauce.github.io/Sauce/home.html" target="_blank" rel="noopener noreferrer">
+  <a href="https://imsauce.github.io/sauce/home.html" target="_blank" rel="noopener noreferrer">
     Sauce</a>, 
   a silly programmer that can draw and likes game development stuff 🍵
 </h2>

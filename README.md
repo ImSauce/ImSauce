@@ -24,7 +24,7 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/></td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60" title="Oracle"/>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60" title="Oracle"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="40" title="Arch Linux"/></td>

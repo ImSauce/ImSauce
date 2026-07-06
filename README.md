@@ -9,7 +9,7 @@
   🍵I'm 
   <a href="https://imsauce.github.io/sauce/home.html" target="_blank" rel="noopener noreferrer">
     Sauce</a>, 
-  a silly programmer that can draw and likes game development stuff 🍵
+  a programmer who draws and code stuff 🍵
 </h2>
 
 <h3 align="left">My Arsenal:</h3>
